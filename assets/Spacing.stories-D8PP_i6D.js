@@ -1,6 +1,0 @@
-import{m as g,r as d,o as e,a as n,F as m,q as l,C as u,t as _,n as S,p as f}from"./vue.esm-bundler-BV06ZB-3.js";import{_ as y}from"./_plugin-vue_export-helper-DlAUqK2U.js";const r=g({name:"Spacing",props:{},setup(){return{spacing:d(["spacing-4","spacing-8","spacing-12","spacing-16","spacing-24","spacing-32","spacing-40","spacing-48","spacing-56","spacing-64","spacing-72","spacing-80"])}}});function x(c,k,v,M,N,$){return e(),n("div",null,[(e(!0),n(m,null,l(c.spacing,a=>(e(),n("div",{key:a,class:"spacing__container"},[u(_(a)+" ",1),S("div",{class:f(a)},null,2)]))),128))])}const i=y(r,[["render",x],["__scopeId","data-v-e84e4ef0"]]);r.__docgenInfo={displayName:"Spacing",exportName:"default",description:"",tags:{},sourceFiles:["/Users/jchourdeaux/workspace/projects/vue3-solaris/src/assets/styles/stories/spacing/Spacing.vue"]};const F={title:"Tokens/Spacing",component:i,tags:["!autodocs"]},s=()=>({components:{MySpacing:i},template:"<MySpacing />"});var p,t,o;s.parameters={...s.parameters,docs:{...(p=s.parameters)==null?void 0:p.docs,source:{originalSource:`() => ({
-  components: {
-    MySpacing
-  },
-  template: '<MySpacing />'
-})`,...(o=(t=s.parameters)==null?void 0:t.docs)==null?void 0:o.source}}};const h=["Spacing"];export{s as Spacing,h as __namedExportsOrder,F as default};
