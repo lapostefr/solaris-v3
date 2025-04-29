@@ -1,0 +1,1 @@
+const t={mounted(e,o){l(o.value)},updated(e,o){l(o.value)},unmounted(){l(!1)}},l=e=>{document.body.parentElement.classList.toggle("body-no-scroll",e)},n=Object.freeze(Object.defineProperty({__proto__:null,default:t},Symbol.toStringTag,{value:"Module"}));export{n as _,t as b};
